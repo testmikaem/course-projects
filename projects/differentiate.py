@@ -2,7 +2,7 @@ import numpy as np
 
 
 def differentiate(u: np.ndarray, dt: float) -> np.ndarray:
-    print("Hello")
+    print("Hi")
 
 def differentiate_vector(u: np.ndarray, dt: float) -> np.ndarray:
     raise NotImplementedError
